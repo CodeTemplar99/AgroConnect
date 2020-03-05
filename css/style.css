@@ -9,7 +9,7 @@
 body {
   line-height: 1.7;
   color: #8c92a0;
-  background: ;
+  /* background: ; */
   font-weight: 300;
   font-size: 16px; }
 
@@ -782,6 +782,14 @@ a, .text-primary{
 
 .btn{
   color:  white !important;
+}
+
+.login-con{
+  background:rgba(224, 224, 224, 0.808);
+}
+
+.login-intro{
+  font-size: 190% !important;
 }
 
   .partners{
